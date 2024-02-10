@@ -1,11 +1,11 @@
 <div>
     <p align="center">
-        <img src="/.github/assets/unicorn.png" align="center" width="240" />
+        <img src="/.github/assets/unicorn.png" align="center" width="360" />
     </p>
     <hr>
 </div>
 
-> 🦄 Magical commits to add some zest to your life as a developer, by using emojis to signal commit & pull-request intent.
+> 🦄 Magical commits to add some zest to your life, by using emojis to signal commit & pull-request intent.
 
 ## ✅ The Standard
 
@@ -28,15 +28,15 @@ A commit message consists of three parts:
 
 #### Emoji & Format
 
-| type         | emoji | format                  |
-|------------  |-------|-------------------------|
-| feature      | 🦄    | `🦄 Feature - <message>` |
-| bugfix       | 🐛    | `🐛 Bugfix - <message>`  |
-| hotfix       | 🔥    | `🔥 Hotfix - <message>`  |
-| chore        | ⚙️     | `⚙️ Chore - <message>`   |
-| docs         | 📚    | `📚 Docs - <message>`    |
-| dependencies | 📦    | `📦 Dependencies - <message>`    |
-| bot          | 🤖    | `🤖 Bot - <message>`     |
+| type         | emoji | format                        |
+| ------------ | ----- | ----------------------------- |
+| feature      | 🦄    | `🦄 Feature - <message>`      |
+| bugfix       | 🐛    | `🐛 Bugfix - <message>`       |
+| hotfix       | 🔥    | `🔥 Hotfix - <message>`       |
+| chore        | ⚙️    | `⚙️ Chore - <message>`        |
+| docs         | 📚    | `📚 Docs - <message>`         |
+| dependencies | 📦    | `📦 Dependencies - <message>` |
+| bot          | 🤖    | `🤖 Bot - <message>`          |
 
 #### Message
 
